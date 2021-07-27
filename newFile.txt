@@ -1,2 +1,3 @@
 This is a new file added to the git-intro local repository.
-This change was made in main branch, in github.com.
+This change was done in dev branch, in github.com. We are keeping it.
+This change was made in main branch, in github.com. We are keeping it too!
